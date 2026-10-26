@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/thiago-felipe-17a35839"><img src="https://img.shields.io/badge/LinkedIn-Thiago%20Felipe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/thiagofelipeoliveira"><img src="https://img.shields.io/badge/LinkedIn-thiagofelipeoliveira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 ---
