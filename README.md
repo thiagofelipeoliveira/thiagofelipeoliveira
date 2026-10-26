@@ -13,7 +13,7 @@
 
 ### 🧑‍💻 Sobre mim
 
-- 🏢 Analista de TI na **Cooperalfa** desde **outubro de 2019**, cuidando de infraestrutura, redes e suporte técnico
+- 🏢 Analista de TI na **Cooperalfa** desde **outubro de 2019**: servidores Linux, virtualização com Proxmox, backups com PBS, redes MikroTik e monitoramento com Zabbix, Grafana e NetBox
 - 🎓 Cursando **Graduação Tecnológica em Inteligência Artificial e Automação Digital**, na UniFECAF + Rocketseat
 - 📡 Técnico em Telecomunicação e Técnico em Manutenção e Suporte em Informática
 - 🌱 Hoje estudando agentes de IA, automação no-code/low-code e Python
@@ -28,6 +28,21 @@
 
 ### 🛠️ Tecnologias e ferramentas
 
+**Infraestrutura, redes e monitoramento**
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows">
+  <img src="https://img.shields.io/badge/MikroTik-293239?style=flat-square&logo=mikrotik&logoColor=white" alt="MikroTik">
+  <img src="https://img.shields.io/badge/Proxmox%20VE-E57000?style=flat-square&logo=proxmox&logoColor=white" alt="Proxmox VE">
+  <img src="https://img.shields.io/badge/Proxmox%20Backup%20Server-E57000?style=flat-square&logo=proxmox&logoColor=white" alt="Proxmox Backup Server">
+  <img src="https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white" alt="Zabbix">
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana">
+  <img src="https://img.shields.io/badge/NetBox-0D597F?style=flat-square&logo=netbox&logoColor=white" alt="NetBox">
+</p>
+
+**IA, automação e desenvolvimento**
+
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
@@ -41,4 +56,4 @@
 
 ### 🎯 Interesses
 
-Infraestrutura de redes · Monitoramento · Automação de processos · IA generativa e agentes aplicados à gestão de sistemas
+Infraestrutura de redes · Virtualização · Observabilidade e monitoramento · Automação de processos · IA generativa e agentes aplicados à gestão de sistemas
